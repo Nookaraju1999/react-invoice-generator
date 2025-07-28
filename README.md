@@ -32,6 +32,7 @@ npm install
 
 npm start / npm run build
 ```
+react
 
 ### Meta
 
